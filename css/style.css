@@ -106,7 +106,7 @@ body{
     background: linear-gradient(
         rgba(0, 0, 0, 0.5), /* Color y opacidad del degradado */
         rgba(0, 0, 0, 0.5) /* Color y opacidad del degradado */
-    ), url('/img/hero_section/moda.jpg');
+    ), url('../img/hero_section/Header2.jpg');
     height: 75vh;
     width: 100%;
     background-size: cover;
